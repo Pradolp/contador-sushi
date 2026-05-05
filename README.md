@@ -1,4 +1,4 @@
-🍣 Contador de Sushi
+# 🍣 Contador de Sushi
 
 Aplicação web simples para contabilizar a quantidade de peças consumidas em um rodízio de sushi.
 
